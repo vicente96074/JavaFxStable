@@ -1,0 +1,44 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 oct. 2022, 11:59:19
+    Author     : Oficina_Afaas
+*/
+
+.login-view{
+    -fx-background-color: rgb(60,63,65);
+}
+
+.login-view-menu{
+    -fx-border-color: rgb(0,0,0);
+    -fx-size: 50px;
+}
+
+.login-view-principal{
+    -fx-background-color: rgb(60,63,65);
+    -fx-border-color: rgb(0,0,0);
+}
+
+#btn_iniciar{
+    -fx-background-color:rgb(60,63,65);
+    -fx-border-color: rgb(40,43,45);
+    -fx-text-fill: rgb(255,255,255);
+    -fx-font-family:sans-serif;
+    -fx-font-size: 20px;
+    -fx-font-family: cursive;
+}
+
+#btn_iniciar:hover{
+    -fx-background-color:rgb(50,53,55);
+}
+
+#lbl_info{
+    -fx-alignment: center;
+    -fx-background-color:rgb(60,63,65);
+    -fx-border-color: rgb(40,43,45);
+    -fx-text-fill: rgb(255,255,255);
+    -fx-font-size: 10px;
+
+}
